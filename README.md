@@ -14,3 +14,9 @@
 
 본 가이드는 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)에 따라 배포됩니다.
 
+## 링크
+
+GitHub: [https://github.com/POMMI3R/TheGuide](https://github.com/POMMI3R/TheGuide)
+
+GitBook: [https://kimhappy.gitbook.io/the-guide](https://kimhappy.gitbook.io/the-guide)
+
