@@ -14,7 +14,7 @@ WSL2 활성화를 위해서는 다음의 사항들을 만족해야 합니다.
 ![](../.gitbook/assets/powershell1.png)
 
 1. `Win` + `s` 키를 눌러 `Windows PowerShell`을 입력하고 `관리자로 실행`을 누릅니다.
-2. PowerShell에 다음의 내용을 차례로 입력한 후, [업데이트](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)를 설치합니다.
+2. PowerShell에 다음의 내용을 차례로 입력하고 컴퓨터를 재시작한 , [업데이트](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)를 설치합니다.
 
 ```text
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
